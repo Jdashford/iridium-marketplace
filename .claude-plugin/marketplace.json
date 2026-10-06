@@ -1,0 +1,28 @@
+{
+  "name": "iridium",
+  "owner": {
+    "name": "Iridium",
+    "url": "https://iridiumai.co"
+  },
+  "description": "The Iridium plugin marketplace for Claude.",
+  "plugins": [
+    {
+      "name": "iridium-memory",
+      "displayName": "Iridium Memory",
+      "description": "Ask your assigned Iridium agents questions grounded in their Memory and Knowledge, and save to Memory when you ask.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Jdashford/iridium-claude-plugin.git",
+        "path": "plugins/iridium-memory"
+      },
+      "author": {
+        "name": "Iridium",
+        "url": "https://iridiumai.co"
+      },
+      "homepage": "https://iridiumai.co",
+      "license": "Proprietary",
+      "category": "productivity",
+      "keywords": ["memory", "knowledge", "agents", "enterprise", "mcp"]
+    }
+  ]
+}
