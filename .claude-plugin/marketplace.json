@@ -9,7 +9,7 @@
     {
       "name": "iridium-memory",
       "displayName": "Iridium Memory",
-      "description": "Ask your assigned Iridium agents questions grounded in their Memory and Knowledge, and save to Memory when you ask.",
+      "description": "Ask your assigned Iridium agents questions grounded in their Memory and Knowledge, save to Memory when you ask, and, where Tools is on, have your personal agent work in your apps with your approval.",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/Jdashford/iridium-claude-plugin.git",

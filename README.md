@@ -1,6 +1,6 @@
 # Iridium for Claude
 
-The Iridium plugin marketplace for Claude. It lists one plugin, **Iridium Memory**, which connects Claude to the Iridium agents assigned to you and to the Memory and Knowledge each agent is authorised to use.
+The Iridium plugin marketplace for Claude. It lists one plugin, **Iridium Memory**, which connects Claude to the Iridium agents assigned to you and to the Memory and Knowledge each agent is authorised to use. Where your organisation has turned on Tools, your personal agent can also read your connected Gmail, Google Calendar, Google Drive and Slack, and make changes there that you approve in Iridium.
 
 ## Install
 
